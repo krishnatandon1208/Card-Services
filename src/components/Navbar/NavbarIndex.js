@@ -7,7 +7,7 @@ export default function NavbarIndex() {
         <>
             <Nav>
                 <NavbarContainer>
-                    <NavLogo to="/">CardServ</NavLogo>
+                    <NavLogo to="/">CardZer</NavLogo>
                     <MobileIcon>
                         <FaBars />
                     </MobileIcon>
